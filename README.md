@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/isti?theme=dark&font=ABeeZee)
 <!--
 **istvan404/istvan404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
