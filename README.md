@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  Kiss István, BSc in Computer Science.
-  Currently pursuing my Master's degree.
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/isti?ext=heatmap)
+  <p>Kiss István, BSc in Computer Science.</p>
+  <p>Currently pursuing my Master's degree.</p>
+  <img src="https://leetcard.jacoblin.cool/isti?ext=heatmap" alt="LeetCode Stats">
 </div>
+
 
 <!--
 Commnet
